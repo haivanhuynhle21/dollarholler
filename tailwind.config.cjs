@@ -23,8 +23,8 @@ module.exports = {
         silver: '#c0c0c0',
         gallery: '#efeaf2',
         caribbeanGreen: '#00ca9e',
-        fog: '#decaec'
-      }
+        fog: '#decaec',
+      },
     }
   },
   plugins: []
